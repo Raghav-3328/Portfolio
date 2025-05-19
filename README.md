@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/fb8feaa3-2ce0-4602-b6be-2b5987c15710)# Raghav's Portfolio
-
 Welcome to my personal portfolio website! This project showcases my skills, experience, and recent work as a web developer. It is designed with modern HTML, CSS, and JavaScript, and includes interactive UI elements, a theme toggle feature, and responsive design.
 
 ## 🌐 Live Demo
